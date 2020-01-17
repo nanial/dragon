@@ -1,23 +1,24 @@
 package by.training.task10dragon.bean;
 
-import by.training.task10dragon.logic.impl.GrottoUtilsImpl;
+import by.training.task10dragon.business.Factory;
+import by.training.task10dragon.logic.api.Grotto;
 
 import java.util.Arrays;
 
 public class Dragon {
 
-    GrottoUtilsImpl grottoUtilsImpl = new GrottoUtilsImpl();
-    Treasure[] treasures = grottoUtilsImpl.fillingCollect();
+    Grotto grotto = new Factory().getGrottoBuilder().getGrotto();
+    Treasure[] treasures = grotto.fillingCollect();
 
     public Dragon() {
     }
 
-    public GrottoUtilsImpl getGrottoUtilsImpl() {
-        return grottoUtilsImpl;
+    public Grotto getGrottoUtilsImpl() {
+        return grotto;
     }
 
-    public void setGrottoUtilsImpl(GrottoUtilsImpl grottoUtilsImpl) {
-        this.grottoUtilsImpl = grottoUtilsImpl;
+    public void setGrotto(Grotto grotto) {
+        this.grotto = grotto;
     }
 
     public Treasure[] getTreasures() {
@@ -50,7 +51,7 @@ public class Dragon {
     @Override
     public String toString() {
         return "Dragon{" +
-                "grotto=" + grottoUtilsImpl +
+                "grotto=" + grotto +
                 ", treasures=" + Arrays.toString(treasures) +
                 '}';
     }
