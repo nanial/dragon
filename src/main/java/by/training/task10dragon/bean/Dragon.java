@@ -1,23 +1,23 @@
 package by.training.task10dragon.bean;
 
-import by.training.task10dragon.business.Factory;
-import by.training.task10dragon.logic.api.Grotto;
+import by.training.task10dragon.business.ServiceFactory;
+import by.training.task10dragon.logic.api.GrottoManager;
 
 import java.util.Arrays;
 
 public class Dragon {
 
-    Grotto grotto = new Factory().getGrottoBuilder().getGrotto();
+    GrottoManager grotto = ServiceFactory.getInstance().getGrottoBuilder().getGrotto();
     Treasure[] treasures = grotto.fillingCollect();
 
     public Dragon() {
     }
 
-    public Grotto getGrottoUtilsImpl() {
+    public GrottoManager getGrottoUtilsImpl() {
         return grotto;
     }
 
-    public void setGrotto(Grotto grotto) {
+    public void setGrotto(GrottoManager grotto) {
         this.grotto = grotto;
     }
 

@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <array class="by.training.task10dragon.bean.Treasure" length="100">
+  <void index="0">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>352</long>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="type">
+     <object class="java.lang.Enum" id="TypeOfTreasure0" method="valueOf">
+      <class>by.training.task10dragon.bean.TypeOfTreasure</class>
+      <string>PEARLS</string>
+     </object>
+    </void>
+    <void property="weight">
+     <double>3.522858898773978</double>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>573</long>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="type">
+     <object class="java.lang.Enum" id="TypeOfTreasure1" method="valueOf">
+      <class>by.training.task10dragon.bean.TypeOfTreasure</class>
+      <string>DIAMONDS</string>
+     </object>
+    </void>
+    <void property="weight">
+     <double>1.4344602572562914</double>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>62</long>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="type">
+     <object class="java.lang.Enum" id="TypeOfTreasure2" method="valueOf">
+      <class>by.training.task10dragon.bean.TypeOfTreasure</class>
+      <string>SILVER</string>
+     </object>
+    </void>
+    <void property="weight">
+     <double>6.272206812013332</double>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>27</long>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="type">
+     <object class="java.lang.Enum" id="TypeOfTreasure3" method="valueOf">
+      <class>by.training.task10dragon.bean.TypeOfTreasure</class>
+      <string>NOT_VALUABLE</string>
+     </object>
+    </void>
+    <void property="weight">
+     <double>9.276126453561051</double>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>687</long>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>6.876722745689086</double>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>47</long>
+    </void>
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>4.704803638229245</double>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1411</long>
+    </void>
+    <void property="id">
+     <int>7</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>3.5280514324414156</double>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>407</long>
+    </void>
+    <void property="id">
+     <int>8</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>4.077808818955128</double>
+    </void>
+   </object>
+  </void>
+  <void index="8">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>36</long>
+    </void>
+    <void property="id">
+     <int>9</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>0.3663712976381539</double>
+    </void>
+   </object>
+  </void>
+  <void index="9">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>73</long>
+    </void>
+    <void property="id">
+     <int>10</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>0.1828841582263041</double>
+    </void>
+   </object>
+  </void>
+  <void index="10">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>18</long>
+    </void>
+    <void property="id">
+     <int>11</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>1.8420982170553757</double>
+    </void>
+   </object>
+  </void>
+  <void index="11">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>14</long>
+    </void>
+    <void property="id">
+     <int>12</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>1.4303688875149956</double>
+    </void>
+   </object>
+  </void>
+  <void index="12">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>612</long>
+    </void>
+    <void property="id">
+     <int>13</int>
+    </void>
+    <void property="type">
+     <object class="java.lang.Enum" id="TypeOfTreasure4" method="valueOf">
+      <class>by.training.task10dragon.bean.TypeOfTreasure</class>
+      <string>GOLD</string>
+     </object>
+    </void>
+    <void property="weight">
+     <double>3.224967943199922</double>
+    </void>
+   </object>
+  </void>
+  <void index="13">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3593</long>
+    </void>
+    <void property="id">
+     <int>14</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>8.983546481206464</double>
+    </void>
+   </object>
+  </void>
+  <void index="14">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>88</long>
+    </void>
+    <void property="id">
+     <int>15</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>8.866985710300119</double>
+    </void>
+   </object>
+  </void>
+  <void index="15">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>93</long>
+    </void>
+    <void property="id">
+     <int>16</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>9.35552735622834</double>
+    </void>
+   </object>
+  </void>
+  <void index="16">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1717</long>
+    </void>
+    <void property="id">
+     <int>17</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>9.04052900754521</double>
+    </void>
+   </object>
+  </void>
+  <void index="17">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>14</long>
+    </void>
+    <void property="id">
+     <int>18</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>1.456762341622525</double>
+    </void>
+   </object>
+  </void>
+  <void index="18">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>569</long>
+    </void>
+    <void property="id">
+     <int>19</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>5.691071550985372</double>
+    </void>
+   </object>
+  </void>
+  <void index="19">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>15</long>
+    </void>
+    <void property="id">
+     <int>20</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>5.237537293608368</double>
+    </void>
+   </object>
+  </void>
+  <void index="20">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2</long>
+    </void>
+    <void property="id">
+     <int>21</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>0.7852425897090531</double>
+    </void>
+   </object>
+  </void>
+  <void index="21">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1807</long>
+    </void>
+    <void property="id">
+     <int>22</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>9.512460679238913</double>
+    </void>
+   </object>
+  </void>
+  <void index="22">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>40</long>
+    </void>
+    <void property="id">
+     <int>23</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>4.031826375794388</double>
+    </void>
+   </object>
+  </void>
+  <void index="23">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1000</long>
+    </void>
+    <void property="id">
+     <int>24</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>5.265693621162638</double>
+    </void>
+   </object>
+  </void>
+  <void index="24">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>971</long>
+    </void>
+    <void property="id">
+     <int>25</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>5.113387345669505</double>
+    </void>
+   </object>
+  </void>
+  <void index="25">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>20</long>
+    </void>
+    <void property="id">
+     <int>26</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>6.738684699930114</double>
+    </void>
+   </object>
+  </void>
+  <void index="26">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>402</long>
+    </void>
+    <void property="id">
+     <int>27</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>4.026726027771314</double>
+    </void>
+   </object>
+  </void>
+  <void index="27">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1</long>
+    </void>
+    <void property="id">
+     <int>28</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>0.10346538815595441</double>
+    </void>
+   </object>
+  </void>
+  <void index="28">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1793</long>
+    </void>
+    <void property="id">
+     <int>29</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>9.440943890260197</double>
+    </void>
+   </object>
+  </void>
+  <void index="29">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>618</long>
+    </void>
+    <void property="id">
+     <int>30</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>6.182706772541415</double>
+    </void>
+   </object>
+  </void>
+  <void index="30">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>879</long>
+    </void>
+    <void property="id">
+     <int>31</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>8.793599136284993</double>
+    </void>
+   </object>
+  </void>
+  <void index="31">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>28</long>
+    </void>
+    <void property="id">
+     <int>32</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>2.8420875831360704</double>
+    </void>
+   </object>
+  </void>
+  <void index="32">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1554</long>
+    </void>
+    <void property="id">
+     <int>33</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>8.181759288111</double>
+    </void>
+   </object>
+  </void>
+  <void index="33">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>248</long>
+    </void>
+    <void property="id">
+     <int>34</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>2.4861746580552513</double>
+    </void>
+   </object>
+  </void>
+  <void index="34">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>383</long>
+    </void>
+    <void property="id">
+     <int>35</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>2.017687930522153</double>
+    </void>
+   </object>
+  </void>
+  <void index="35">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>173</long>
+    </void>
+    <void property="id">
+     <int>36</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>0.43438783325292607</double>
+    </void>
+   </object>
+  </void>
+  <void index="36">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>70</long>
+    </void>
+    <void property="id">
+     <int>37</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>0.3709015342160771</double>
+    </void>
+   </object>
+  </void>
+  <void index="37">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>15</long>
+    </void>
+    <void property="id">
+     <int>38</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>0.15914709437691132</double>
+    </void>
+   </object>
+  </void>
+  <void index="38">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3673</long>
+    </void>
+    <void property="id">
+     <int>39</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>9.18326380390128</double>
+    </void>
+   </object>
+  </void>
+  <void index="39">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>73</long>
+    </void>
+    <void property="id">
+     <int>40</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>7.300128761319743</double>
+    </void>
+   </object>
+  </void>
+  <void index="40">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>17</long>
+    </void>
+    <void property="id">
+     <int>41</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>5.790888005372739</double>
+    </void>
+   </object>
+  </void>
+  <void index="41">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1</long>
+    </void>
+    <void property="id">
+     <int>42</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>0.5742451658205405</double>
+    </void>
+   </object>
+  </void>
+  <void index="42">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>17</long>
+    </void>
+    <void property="id">
+     <int>43</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>5.815602090071166</double>
+    </void>
+   </object>
+  </void>
+  <void index="43">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2315</long>
+    </void>
+    <void property="id">
+     <int>44</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>5.789403479005744</double>
+    </void>
+   </object>
+  </void>
+  <void index="44">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1336</long>
+    </void>
+    <void property="id">
+     <int>45</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>7.035601476956829</double>
+    </void>
+   </object>
+  </void>
+  <void index="45">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>4</long>
+    </void>
+    <void property="id">
+     <int>46</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>1.5448948647105598</double>
+    </void>
+   </object>
+  </void>
+  <void index="46">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>81</long>
+    </void>
+    <void property="id">
+     <int>47</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>8.182902602647722</double>
+    </void>
+   </object>
+  </void>
+  <void index="47">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>7</long>
+    </void>
+    <void property="id">
+     <int>48</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>2.50511254509029</double>
+    </void>
+   </object>
+  </void>
+  <void index="48">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>21</long>
+    </void>
+    <void property="id">
+     <int>49</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>7.252319206658998</double>
+    </void>
+   </object>
+  </void>
+  <void index="49">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>26</long>
+    </void>
+    <void property="id">
+     <int>50</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>2.6809932527512514</double>
+    </void>
+   </object>
+  </void>
+  <void index="50">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>589</long>
+    </void>
+    <void property="id">
+     <int>51</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>3.1016343046559625</double>
+    </void>
+   </object>
+  </void>
+  <void index="51">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2000</long>
+    </void>
+    <void property="id">
+     <int>52</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>5.002465346261755</double>
+    </void>
+   </object>
+  </void>
+  <void index="52">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1</long>
+    </void>
+    <void property="id">
+     <int>53</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>0.5702434811230339</double>
+    </void>
+   </object>
+  </void>
+  <void index="53">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1775</long>
+    </void>
+    <void property="id">
+     <int>54</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>9.34692358887997</double>
+    </void>
+   </object>
+  </void>
+  <void index="54">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>29</long>
+    </void>
+    <void property="id">
+     <int>55</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>9.760825309602287</double>
+    </void>
+   </object>
+  </void>
+  <void index="55">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3989</long>
+    </void>
+    <void property="id">
+     <int>56</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>9.973639133780196</double>
+    </void>
+   </object>
+  </void>
+  <void index="56">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2681</long>
+    </void>
+    <void property="id">
+     <int>57</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>6.7027215657005055</double>
+    </void>
+   </object>
+  </void>
+  <void index="57">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>86</long>
+    </void>
+    <void property="id">
+     <int>58</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>8.662903673331053</double>
+    </void>
+   </object>
+  </void>
+  <void index="58">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>850</long>
+    </void>
+    <void property="id">
+     <int>59</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>2.1265671291221477</double>
+    </void>
+   </object>
+  </void>
+  <void index="59">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>27</long>
+    </void>
+    <void property="id">
+     <int>60</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>9.202829456562515</double>
+    </void>
+   </object>
+  </void>
+  <void index="60">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3569</long>
+    </void>
+    <void property="id">
+     <int>61</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>8.92377894907459</double>
+    </void>
+   </object>
+  </void>
+  <void index="61">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1873</long>
+    </void>
+    <void property="id">
+     <int>62</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>9.858149733838061</double>
+    </void>
+   </object>
+  </void>
+  <void index="62">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>460</long>
+    </void>
+    <void property="id">
+     <int>63</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>4.6077340642978015</double>
+    </void>
+   </object>
+  </void>
+  <void index="63">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>920</long>
+    </void>
+    <void property="id">
+     <int>64</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>2.300332421430993</double>
+    </void>
+   </object>
+  </void>
+  <void index="64">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>26</long>
+    </void>
+    <void property="id">
+     <int>65</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>2.628305832039838</double>
+    </void>
+   </object>
+  </void>
+  <void index="65">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>12</long>
+    </void>
+    <void property="id">
+     <int>66</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>4.266333577547439</double>
+    </void>
+   </object>
+  </void>
+  <void index="66">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2385</long>
+    </void>
+    <void property="id">
+     <int>67</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>5.96441260470339</double>
+    </void>
+   </object>
+  </void>
+  <void index="67">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2</long>
+    </void>
+    <void property="id">
+     <int>68</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>0.24445719030793955</double>
+    </void>
+   </object>
+  </void>
+  <void index="68">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>10</long>
+    </void>
+    <void property="id">
+     <int>69</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>3.5089825843706723</double>
+    </void>
+   </object>
+  </void>
+  <void index="69">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>2968</long>
+    </void>
+    <void property="id">
+     <int>70</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>7.420971363121276</double>
+    </void>
+   </object>
+  </void>
+  <void index="70">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>681</long>
+    </void>
+    <void property="id">
+     <int>71</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>6.818614517468685</double>
+    </void>
+   </object>
+  </void>
+  <void index="71">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>22</long>
+    </void>
+    <void property="id">
+     <int>72</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>2.255409672260046</double>
+    </void>
+   </object>
+  </void>
+  <void index="72">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3796</long>
+    </void>
+    <void property="id">
+     <int>73</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>9.490928178823935</double>
+    </void>
+   </object>
+  </void>
+  <void index="73">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>809</long>
+    </void>
+    <void property="id">
+     <int>74</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>8.099513589505097</double>
+    </void>
+   </object>
+  </void>
+  <void index="74">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>17</long>
+    </void>
+    <void property="id">
+     <int>75</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>5.919984010113422</double>
+    </void>
+   </object>
+  </void>
+  <void index="75">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>897</long>
+    </void>
+    <void property="id">
+     <int>76</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>4.722456888991453</double>
+    </void>
+   </object>
+  </void>
+  <void index="76">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1359</long>
+    </void>
+    <void property="id">
+     <int>77</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>7.152819048653409</double>
+    </void>
+   </object>
+  </void>
+  <void index="77">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>423</long>
+    </void>
+    <void property="id">
+     <int>78</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>4.239114041755986</double>
+    </void>
+   </object>
+  </void>
+  <void index="78">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>394</long>
+    </void>
+    <void property="id">
+     <int>79</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>2.078944261294118</double>
+    </void>
+   </object>
+  </void>
+  <void index="79">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>728</long>
+    </void>
+    <void property="id">
+     <int>80</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>3.8342580521347855</double>
+    </void>
+   </object>
+  </void>
+  <void index="80">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1671</long>
+    </void>
+    <void property="id">
+     <int>81</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>4.17996777508498</double>
+    </void>
+   </object>
+  </void>
+  <void index="81">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>68</long>
+    </void>
+    <void property="id">
+     <int>82</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>0.681261022995302</double>
+    </void>
+   </object>
+  </void>
+  <void index="82">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3</long>
+    </void>
+    <void property="id">
+     <int>83</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>1.1313425527689869</double>
+    </void>
+   </object>
+  </void>
+  <void index="83">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1</long>
+    </void>
+    <void property="id">
+     <int>84</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>0.16857601893475072</double>
+    </void>
+   </object>
+  </void>
+  <void index="84">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>81</long>
+    </void>
+    <void property="id">
+     <int>85</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>8.186270632797864</double>
+    </void>
+   </object>
+  </void>
+  <void index="85">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1393</long>
+    </void>
+    <void property="id">
+     <int>86</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>3.4829186332755855</double>
+    </void>
+   </object>
+  </void>
+  <void index="86">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>26</long>
+    </void>
+    <void property="id">
+     <int>87</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>2.6943006196032817</double>
+    </void>
+   </object>
+  </void>
+  <void index="87">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>717</long>
+    </void>
+    <void property="id">
+     <int>88</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>7.174502227311812</double>
+    </void>
+   </object>
+  </void>
+  <void index="88">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>908</long>
+    </void>
+    <void property="id">
+     <int>89</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>4.783673708441604</double>
+    </void>
+   </object>
+  </void>
+  <void index="89">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3663</long>
+    </void>
+    <void property="id">
+     <int>90</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>9.158827747107877</double>
+    </void>
+   </object>
+  </void>
+  <void index="90">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1122</long>
+    </void>
+    <void property="id">
+     <int>91</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>5.908332115036959</double>
+    </void>
+   </object>
+  </void>
+  <void index="91">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>622</long>
+    </void>
+    <void property="id">
+     <int>92</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>1.5566708875859692</double>
+    </void>
+   </object>
+  </void>
+  <void index="92">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>778</long>
+    </void>
+    <void property="id">
+     <int>93</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>4.099092434278912</double>
+    </void>
+   </object>
+  </void>
+  <void index="93">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>3095</long>
+    </void>
+    <void property="id">
+     <int>94</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>7.737609062219423</double>
+    </void>
+   </object>
+  </void>
+  <void index="94">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>51</long>
+    </void>
+    <void property="id">
+     <int>95</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure2"/>
+    </void>
+    <void property="weight">
+     <double>5.155015708104999</double>
+    </void>
+   </object>
+  </void>
+  <void index="95">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>26</long>
+    </void>
+    <void property="id">
+     <int>96</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure3"/>
+    </void>
+    <void property="weight">
+     <double>8.6783587244612</double>
+    </void>
+   </object>
+  </void>
+  <void index="96">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1606</long>
+    </void>
+    <void property="id">
+     <int>97</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>8.45569544639156</double>
+    </void>
+   </object>
+  </void>
+  <void index="97">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1570</long>
+    </void>
+    <void property="id">
+     <int>98</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure4"/>
+    </void>
+    <void property="weight">
+     <double>8.26535105881273</double>
+    </void>
+   </object>
+  </void>
+  <void index="98">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>742</long>
+    </void>
+    <void property="id">
+     <int>99</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure0"/>
+    </void>
+    <void property="weight">
+     <double>7.4240606700457334</double>
+    </void>
+   </object>
+  </void>
+  <void index="99">
+   <object class="by.training.task10dragon.bean.Treasure">
+    <void property="cost">
+     <long>1522</long>
+    </void>
+    <void property="id">
+     <int>100</int>
+    </void>
+    <void property="type">
+     <object idref="TypeOfTreasure1"/>
+    </void>
+    <void property="weight">
+     <double>3.8068448152884082</double>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>

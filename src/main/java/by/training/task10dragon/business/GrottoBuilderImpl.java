@@ -1,16 +1,16 @@
 package by.training.task10dragon.business;
 
 import by.training.task10dragon.apiBusiness.GrottoBuilder;
-import by.training.task10dragon.logic.api.Grotto;
-import by.training.task10dragon.logic.impl.GrottoImpl;
+import by.training.task10dragon.logic.api.GrottoManager;
+import by.training.task10dragon.logic.impl.GrottoManagerImpl;
 
 public class GrottoBuilderImpl implements GrottoBuilder {
 
-    private Grotto grotto;
+    private final GrottoManager grotto = new GrottoManagerImpl();
     private static GrottoBuilderImpl instance;
 
     private GrottoBuilderImpl() {
-        this.grotto = new GrottoImpl();
+
     }
     synchronized  public static GrottoBuilderImpl getInstance() {
         if(instance == null){
@@ -20,7 +20,7 @@ public class GrottoBuilderImpl implements GrottoBuilder {
     }
 
     @Override
-    public Grotto getGrotto() {
+    public GrottoManager getGrotto() {
         return grotto;
     }
 }

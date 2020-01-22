@@ -12,6 +12,9 @@ package by.training.task10dragon.controller;
 //дракона. Реализовать возможность просмотра сокровищ, выбора самого дорогого по стоимости сокровища и
 //выбора сокровищ на заданную сумму.
 
+import by.training.task10dragon.apiDao.GrottoDao;
+import by.training.task10dragon.business.ServiceFactory;
+import by.training.task10dragon.dao.DaoFactory;
 import by.training.task10dragon.view.Menu;
 import by.training.task10dragon.view.View;
 
@@ -20,6 +23,8 @@ public class Runner {
 
     public static void main(String[] args) {
 
+        GrottoDao dao = DaoFactory.getInstance().getDao();
+        dao.writeInFile(ServiceFactory.getInstance().getDragonBuilder().getDragon().getTreasures());
         View view = new Menu();
         view.userService();
     }

@@ -13,7 +13,7 @@ public enum TypeOfTreasure {
         return types[rand.nextInt(types.length)];
     }
 
-    public int getPriceOfGramm() {
+    public int getPriceGramm() {
 
         int priceOfGram = 0;
 

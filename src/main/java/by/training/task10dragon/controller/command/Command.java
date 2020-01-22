@@ -1,11 +1,13 @@
 package by.training.task10dragon.controller.command;
 
-import by.training.task10dragon.bean.Dragon;
-import by.training.task10dragon.logic.api.DragonUtils;
-import by.training.task10dragon.logic.impl.DragonUtilsImpl;
+import by.training.task10dragon.business.ServiceFactory;
+import by.training.task10dragon.logic.api.DragonManager;
+import by.training.task10dragon.logic.impl.DragonManagerImpl;
 
 public interface Command {
 
-    DragonUtils dragonUtils = new DragonUtilsImpl(new Dragon());
+    DragonManager dragonUtils = new DragonManagerImpl(
+            ServiceFactory.getDragonBuilder().getDragon()
+    );
     String execute(String request);
 }

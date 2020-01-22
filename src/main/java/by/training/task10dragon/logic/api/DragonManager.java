@@ -4,7 +4,7 @@ import by.training.task10dragon.bean.Treasure;
 
 import java.util.ArrayList;
 
-public interface DragonUtils {
+public interface DragonManager {
 
     String showAllTreasure();
     Treasure mostExpensive();

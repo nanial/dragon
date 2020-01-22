@@ -19,6 +19,18 @@ public class Treasure {
         this.type = type;
     }
 
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setWeight(double weight) {
+        this.weight = weight;
+    }
+
+    public void setType(TypeOfTreasure type) {
+        this.type = type;
+    }
+
     public void setCost(long cost) {
         this.cost = cost;
     }

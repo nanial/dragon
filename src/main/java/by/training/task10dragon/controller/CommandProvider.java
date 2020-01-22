@@ -18,8 +18,8 @@ final class CommandProvider {
     CommandProvider(){
 
         repository.put(CommandName.CERTAIN, new CertainSum());
-        repository.put(CommandName.MOST_EXPENSIVE, new MostExpensive());
-        repository.put(CommandName.SHOW_TREASURE, new ShowTreasure());
+        repository.put(CommandName.EXPENSIVE, new MostExpensive());
+        repository.put(CommandName.SHOW, new ShowTreasure());
 
     }
 
