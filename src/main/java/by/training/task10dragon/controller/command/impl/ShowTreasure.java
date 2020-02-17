@@ -6,6 +6,6 @@ public class ShowTreasure implements Command {
     @Override
     public String execute(String request) {
 
-        return dragonUtils.showAllTreasure();
+        return dragonManager.showAllTreasure();
     }
 }

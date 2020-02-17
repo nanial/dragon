@@ -24,7 +24,8 @@ public class Runner {
     public static void main(String[] args) {
 
         GrottoDao dao = DaoFactory.getInstance().getDao();
-        dao.writeInFile(ServiceFactory.getInstance().getDragonBuilder().getDragon().getTreasures());
+        dao.writeInFile(ServiceFactory.getInstance().
+                getDragonBuilder().getDragon().getTreasures());
         View view = new Menu();
         view.userService();
     }

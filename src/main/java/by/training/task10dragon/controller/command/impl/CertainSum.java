@@ -7,6 +7,6 @@ public class CertainSum implements Command {
 
     public String execute(String request) {
 
-        return dragonUtils.treasureCertainSum(25).toString();
+        return dragonManager.treasureCertainSum(25).toString();
     }
 }

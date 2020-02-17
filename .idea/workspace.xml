@@ -8,9 +8,8 @@
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RB5C6G3/linearalgoritm.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RED6OI1.patient/by.taining.patient.iml" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/CD6BE679489C97990" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/F41EBCAA5FEF7C881" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map1" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/tdata/settings0" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map0" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/settings1" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/ant-jps-plugin.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/resources_en.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aop-common/lib/aop-common.jar" afterDir="false" />
@@ -282,6 +281,263 @@
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/options.js" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/statement.js" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/artifacts/Pharma_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/PostParametr.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/Myservlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/PostParametrsServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/SecondServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Arrival.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Manufactures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Medical.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/ProductToOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/entities/Suppliers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/servlets/AdminProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/classes/servlets/ConnectorDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/byte-buddy-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/hibernate-core-5.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/about.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/adminCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/adminCharts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/adminIndex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/adminOrder.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/adminProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/cabinet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/catalog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/charts/diagramm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/contacts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/feedback.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/layots/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/layots/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/layots/HeaderAdmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/layots/footerAdmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/bootstrap2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/prettyPhoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/price-range.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/404/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/blog/socials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/cart/tastieraEPiilloli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/bg_border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/home/searchicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/ico/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/product-details/new.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/product-details/rating.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/product-details/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/images/shop/advertisement.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/jquery.cycle2.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/jquery.cycle2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/template/js/price-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/licenzija_nov_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/perButton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/0 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/2 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/3 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/33 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/33 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/34 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/35 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/36 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/37 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/38 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/39 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/40 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/41 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/42 (2).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/42.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/43 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/44 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/45 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/46 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/47 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/48 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/49 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/6 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/7 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cos6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos1 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos2 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos3 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos4 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos5 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos6l (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos6l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos7 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/cosmos8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe10 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe11 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe12 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe13 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe14 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe15 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe2 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe3 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe4 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe5 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe6 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe8 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe9 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbe9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/erbeErbe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/logo (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/logoCosmos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/logoGrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/lozartan-nan (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/lozartan-nan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/no-image (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/no-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/no-imageBetter (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/no-imageBetter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/rCavalli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/testaDiPilloli (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/testaDiPilloli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/Без названия (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/products/Без названия.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/scafaleFarmaceutico.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/images/tastieraEPiilloli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/cart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/cosmos8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/oldBottleWithCorkStoppers-.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/oldScales-.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/img/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/reports/spravca.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/reports/toxic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/Pharma_war_exploded/upload/reports/u4.politica.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Examples/Examples.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Examples/out/production/Examples/.idea/src.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Examples/src/.idea/src.iml" afterDir="false" />
@@ -301,36 +557,50 @@
       <change afterPath="$PROJECT_DIR$/../Socket/Socket.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/Vehicle.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/apiBusiness/DragonBuilder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/apiBusiness/GrottoBuilder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/apiDao/GrottoDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Dragon.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Treasure.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/TypeOfTreasure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/DragonBuilderImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/GrottoBuilderImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/ServiceFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/CommandProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Runner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/Command.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/CommandName.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/CertainSum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/MostExpensive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/ShowTreasure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/dao/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/dao/GrottoDaoImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/exception/TreasureException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/api/DragonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/impl/DragonManagerImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/view/Menu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/view/View.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/Runner.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/log4j.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/treasure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/by.training.finaltask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/out/artifacts/web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/out/artifacts/web_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/out/production/by.training.finaltask/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.finaltask/web/jsp/main.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/compiler.xml" afterDir="false" />
@@ -522,6 +792,8 @@
       <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task26/controller/Runner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task36/controller/Runner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task5/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mysqltest/.idea/mysqltest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mysqltest/mysqltest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../patient/.gitignore" afterDir="false" />
@@ -570,6 +842,12 @@
       <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/view/AlternativeMenu.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/view/Menu.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring1/.idea/spring1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/bean/Archive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/bean/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/bean/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/bean/Portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/bean/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/com/task/sixth/archive/view/Menu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../task08-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../task08-master/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../task08-master/.idea/compiler.xml" afterDir="false" />
@@ -584,48 +862,95 @@
       <change afterPath="$PROJECT_DIR$/../task08-master/target/classes/log4j.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../task08-master/task08.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../задания2-4/.idea/задания2-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pharma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pharma/.idea/pharma.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../task08/src/main/java/by/training/task08/controller/Runner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../task08/task08.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../untitled/lessonsShidl.iml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/description.html" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/README.md" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/by.training.finaltask.iml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/bean/Role.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/bean/User.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/Command.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/CommandException.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/CommandHelper.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/CommandName.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/RequestParametrName.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/impl/AuthorizationCommand.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/command/impl/NoSuchCommand.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/controller/Controller.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/controller/JSPPageName.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/dao/DaoProvider.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/dao/UserDao.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/dao/impl/DaoException.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/dao/impl/SQLUserDao.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/service/ServiceProvider.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/service/UserService.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/service/exception/ServiceException.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/src/by/training/service/validation/UserDataValidator.java" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/web/WEB-INF/jsp/auth_user.jsp" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/web/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/web/index.jsp" afterDir="false" />
+      <change afterPath="D:/tomcat/apache-tomcat-8.5.38/webapps/by.training.finaltask/web/jsp/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/.idea/artifacts/untitled_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/Pharma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/Pharma.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/SecondServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/entities/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/servlets/AdminProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/Myservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/Myservlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/SecondServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/SecondServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/servlets/AdminProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/servlets/AdminProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/Myservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/Myservlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/PostParametrsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/PostParametrsServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Arrival.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Arrival.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Manufactures.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Manufactures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Medical.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Medical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Orders.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/ProductToOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/ProductToOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Suppliers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Suppliers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/ConnectorDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/ConnectorDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/web/adminProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/web/adminProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/web/logout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/web/logout.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/apiBusiness/GrottoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/apiBusiness/GrottoBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Dragon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Treasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/Treasure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/TypeOfTreasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/bean/TypeOfTreasure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/Factory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/GrottoBuilderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/business/GrottoBuilderImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/CommandProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/CommandProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/CommandName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/CommandName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/api/DragonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/api/DragonManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/api/Grotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/api/GrottoManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/impl/DragonUtilsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/impl/DragonManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/impl/GrottoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/logic/impl/GrottoManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/view/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/Dragon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/Dragon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/Treasure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/Treasure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/TypeOfTreasure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/bean/TypeOfTreasure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/CertainSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/CertainSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/MostExpensive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/MostExpensive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/ShowTreasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/controller/command/impl/ShowTreasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/task10dragon/dao/DaoFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/CommandProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/CommandProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/Runner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/CommandName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/CommandName.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/CertainSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/CertainSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/MostExpensive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/MostExpensive.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/ShowTreasure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/controller/command/impl/ShowTreasure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/logic/api/DragonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/logic/impl/DragonUtilsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/training/task10dragon/view/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/task10dragon/view/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treasure.xml" beforeDir="false" afterPath="$PROJECT_DIR$/treasure.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -670,6 +995,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/by/training/dragon" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -687,7 +1013,20 @@
       <recent name="D:\study\java\by.training.dragon\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Java Scratch.Scratch">
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.training.task10dragon.controller.Controller" />
+      <module name="by.training.dragon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.training.task10dragon.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.training.task10dragon.controller.Runner" />
       <module name="by.training.dragon" />
@@ -697,6 +1036,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -713,6 +1059,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Controller" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
@@ -747,19 +1095,27 @@
       <option name="project" value="LOCAL" />
       <updated>1579178980349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dao">
+      <created>1579687790309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579687790309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dragon" />
-    <option name="LAST_COMMIT_MESSAGE" value="dragon" />
+    <MESSAGE value="dao" />
+    <option name="LAST_COMMIT_MESSAGE" value="dao" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1579686620587">
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1581870803370">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1579686620587" />
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1581870803370" />
     <state x="181" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579677906665">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -768,42 +1124,46 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1579263129985" />
-    <state x="466" y="26" key="CommitChangelistDialog2" timestamp="1579178976559">
+    <state x="535" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579709466756">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="466" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579178976559" />
+    <state x="535" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1579709466756" />
+    <state x="466" y="26" key="CommitChangelistDialog2" timestamp="1579687786583">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="466" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579687786583" />
     <state x="638" y="332" width="347" height="195" key="Github.CreateGistDialog" timestamp="1579624709275">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="638" y="332" width="347" height="195" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1579624709275" />
-    <state width="1557" height="37" key="GridCell.Tab.0.bottom" timestamp="1579687725421">
+    <state width="1557" height="169" key="GridCell.Tab.0.bottom" timestamp="1581873810928">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="37" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579687725421" />
-    <state width="1557" height="37" key="GridCell.Tab.0.center" timestamp="1579687725420">
+    <state width="1557" height="169" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581873810928" />
+    <state width="1557" height="169" key="GridCell.Tab.0.center" timestamp="1581873810927">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="37" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579687725420" />
-    <state width="1557" height="37" key="GridCell.Tab.0.left" timestamp="1579687725420">
+    <state width="1557" height="169" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581873810927" />
+    <state width="1557" height="169" key="GridCell.Tab.0.left" timestamp="1581873810927">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="37" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579687725420" />
-    <state width="1557" height="37" key="GridCell.Tab.0.right" timestamp="1579687725421">
+    <state width="1557" height="169" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581873810927" />
+    <state width="1557" height="169" key="GridCell.Tab.0.right" timestamp="1581873810928">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="37" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579687725421" />
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1579179003980">
+    <state width="1557" height="169" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581873810928" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1579687801567">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579179003980" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579687801567" />
     <state x="449" y="135" key="new project wizard" timestamp="1579179148033">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="449" y="135" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1579179148033" />
-    <state x="456" y="195" key="run.anything.popup" timestamp="1579164863014">
+    <state x="456" y="195" key="run.anything.popup" timestamp="1581522650496">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1579164863014" />
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1581522650496" />
     <state x="456" y="83" width="670" height="676" key="search.everywhere.popup" timestamp="1579684732094">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -6,8 +6,8 @@ import by.training.task10dragon.logic.impl.DragonManagerImpl;
 
 public interface Command {
 
-    DragonManager dragonUtils = new DragonManagerImpl(
-            ServiceFactory.getDragonBuilder().getDragon()
+    DragonManager dragonManager = new DragonManagerImpl(
+            ServiceFactory.getInstance().getDragonBuilder().getDragon()//reference to dragon
     );
     String execute(String request);
 }

@@ -6,7 +6,6 @@ import by.training.task10dragon.controller.command.impl.CertainSum;
 import by.training.task10dragon.controller.command.impl.MostExpensive;
 import by.training.task10dragon.controller.command.impl.ShowTreasure;
 import org.apache.log4j.Logger;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -27,6 +26,7 @@ final class CommandProvider {
 
         CommandName commandName;
         Command command;
+
         try{
             commandName = CommandName.valueOf(name.toUpperCase());
             command = repository.get(commandName);
