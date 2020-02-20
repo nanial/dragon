@@ -2,8 +2,6 @@ package by.training.task10dragon.controller;
 
 import by.training.task10dragon.controller.command.Command;
 
-import java.util.Arrays;
-
 public final class Controller {
 
     private final CommandProvider provider = new CommandProvider();
